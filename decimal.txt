@@ -1,0 +1,1 @@
+new java.text.DecimalFormat("#.00").format((account.training?.Total_Score as float/account.training?.Number_of_Students as float) as double)
